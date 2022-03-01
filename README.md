@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nalexandriam
 - 👀 I’m interested in computer programming, not matter what, be for web, desktop, games or network...programming is too fun 
-- 🌱 I’m currently learning nodejs and other things
+- 🌱 I’m currently learning NestJS and other things
 - 📫 How to reach me? send me an email => natadealexandriamenezes@gmail.com
 
 <!---
